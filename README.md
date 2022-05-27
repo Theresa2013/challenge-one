@@ -1,4 +1,7 @@
-I successfully refactored the existing code to make it more accessible according to the criteria. I also cleaned up the CSS style page, making it look more proffesional.
+# Horiseon Website
+
+## Purpose
+I successfully refactored the existing code to make it more accessible according to the criteria.
 
 ## User Story
 
@@ -23,3 +26,20 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Built With:
+* HTML
+* CSS
+
+## Website
+https://theresa2013.github.io/challenge-one/ 
+
+## GitHub
+https://github.com/Theresa2013/challenge-one.git 
+
+## Screenshots
+![demo](./assets/images/Screenshot1.png)
+![demo](./assets/images/Screenshot2.png)
+
+Contribution
+Made by Theresa Butterfield
