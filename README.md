@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Horiseon Website
 
 ## Purpose
 I successfully refactored the existing code to make it more accessible according to the criteria.
